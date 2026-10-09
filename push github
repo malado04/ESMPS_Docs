@@ -1,0 +1,15 @@
+git init
+git add .
+git commit -m "docs: initialiser la documentation ESMPS"
+git branch -M main
+git remote add origin https://github.com/malado04/ESMPS.git
+git push -u origin main
+
+--------------------------------------------------------------------
+echo "# ESMPS_Docs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/malado04/ESMPS_Docs.git
+git push -u origin main
