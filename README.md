@@ -42,7 +42,7 @@ Cette architecture permet de séparer les données des établissements. La sécu
 
 ## Dépôts
 
-* **Application :** https:ecolesmps.com 
+* **Application :** https://ecolesmps.com 
 * **Documentation :** https://github.com/malado04/ESMPS_Docs
 
 ## Organisation de la documentation
